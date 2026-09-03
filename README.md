@@ -4,11 +4,6 @@
   - Estudante de Engenharia de Computação no CEFET-MG (Centro Federal de Educação Tecnológica de Minas Gerais) Campus V <br>
 </h4>
 
-<div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHSC-0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSC-0&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=3600"/>
-</div>
-
 <h2> - Skills: </h2>
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,mysql,python,java" alt="Habilidades" />
