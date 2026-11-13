@@ -1,6 +1,7 @@
 <h1> - Olá, eu sou Pedro Henrique Silva Costa</h1>
 
 <h4> 
+  - Técnico em Informática Integrado no CEFET-MG
   - Estudante de Engenharia de Computação no CEFET-MG (Centro Federal de Educação Tecnológica de Minas Gerais) Campus V <br>
 </h4>
 
