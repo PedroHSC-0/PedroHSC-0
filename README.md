@@ -11,7 +11,7 @@
   </a>
 
 <h2> - Contato: </h2> 
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank"> 
+  <a href="https://www.linkedin.com/in/pedro-henrique-silva-costa-1199a22a6/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/> 
   </a>
   
